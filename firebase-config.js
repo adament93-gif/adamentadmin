@@ -10,5 +10,5 @@
  */
 window.ENT_FIREBASE = {
   apiKey: 'AIzaSyDlQPkrVN5vw1wEp5c8ALitY6DR9l6ZbZs',
-  projectId: 'adament-bb6d9.firebaseapp.com'
+  projectId: 'adament-bb6d9'
 };
